@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "Bodyweight Squat",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_Strength-training_Bodyweight-Squat_Christine_Final/NYT_Strength-training_Bodyweight-Squat_Christine_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Push-Up",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_Strength-Training_Pushup_Howard_Final/NYT_Strength-Training_Pushup_Howard_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mountain Climbers",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_StrengthTraining_Mountain-Climbers_Christine_Final/NYT_StrengthTraining_Mountain-Climbers_Christine_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Plank",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_Strength-Training_Forearm-Plank_Howard_Final/NYT_Strength-Training_Forearm-Plank_Howard_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Bodyweight Split Squat",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_Strength-Training_Bodyweight-Split-Squat_Shom_Final/NYT_Strength-Training_Bodyweight-Split-Squat_Shom_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 5,
+    "title": "​Single-Leg Hip Raise",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_StrengthTraining_Single-Leg-Hip-Raise_Howard_Final_/NYT_StrengthTraining_Single-Leg-Hip-Raise_Howard_Final_-blog480.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Burpee With Push-Up",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_StrengthTraining_Burpee-With-Push-Up_Shom_Final/NYT_StrengthTraining_Burpee-With-Push-Up_Shom_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Single-Leg Toe Touches",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_StrengthTraining_Single-Leg-Toe-Touches_Christine_Final/NYT_StrengthTraining_Single-Leg-Toe-Touches_Christine_Final-blog480-v2.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Leg Raises",
+    "imageSource": "https://static01.nyt.com/images/2017/03/13/well/move/NYT_Strength-training_Leg-Raises_Shom_Final/NYT_Strength-training_Leg-Raises_Shom_Final-blog480.jpg"
+  }
+]
